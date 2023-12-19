@@ -6,7 +6,7 @@
 
  *Mi enfoque se centra en el aprendizaje constante para ampliar mis habilidades y encontrar soluciones innovadoras. Actualmente, me encuentro en la búsqueda activa de oportunidades laborales para aplicar mis conocimientos y expandir mis capacidades en un entorno profesional.*
 
-## **¡Me emociona seguir creciendo y contribuir al mundo del desarrollo web!.*
+## *¡Me emociona seguir creciendo y contribuir al mundo del desarrollo web!.*
 
 
 ## 📊 Estadísticas
