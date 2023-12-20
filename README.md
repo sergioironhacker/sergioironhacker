@@ -29,7 +29,8 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=black&color=61DAFB"></a> 
 <img alt="node" src="https://img.shields.io/badge/Node-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=black&color=green"></a> 
-<img alt="node" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> 
+<img alt="mongoBD" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> 
+<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a> 
 </p>
 
 ## 💻 Software y herramientas
