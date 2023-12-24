@@ -18,6 +18,8 @@
 ## 🎓 Education
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Ironhack](https://images.crunchbase.com/image/upload/c_lpad,h_64,w_64,f_auto,q_auto:eco,dpr_1/ajracsdqu5gmyfl6nai0 "Ironhack")
+
 
 
 ## 👩‍💻 Lenguajes de Programación
