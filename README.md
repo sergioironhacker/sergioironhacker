@@ -56,7 +56,7 @@
 
 ---
 
-![Stack MERN](https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png)
+![Stack MERN](https://www.imaginarycloud.com/blog/content/images/2023/03/MERN.webp)
 
 
 
