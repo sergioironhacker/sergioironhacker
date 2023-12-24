@@ -15,6 +15,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioironhacker&layout=compact&theme=tokyonight)
 
 
+## 🎓 Education
+
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+
 ## 👩‍💻 Lenguajes de Programación
 
 <p>
