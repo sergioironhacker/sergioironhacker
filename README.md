@@ -1,4 +1,4 @@
-### Hola! Me llamo Sergio Esteban <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47q7ap3ebz4h3s5u6d80wlvhm6kfppqbprtak4uk40&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="328">
+### Hola! Me llamo Sergio Esteban. <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47q7ap3ebz4h3s5u6d80wlvhm6kfppqbprtak4uk40&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="328">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=007FFF&center=verdadero&vCenter=verdadero&width=500&lines=En+camino+a+ser+un+gran+desarrollador+web.)
 
