@@ -54,6 +54,11 @@
 <a href="https://www.linkedin.com/in/sergio-esteban-229a55279/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"></a>
 </p>
 
+## 🧪 Testing
+
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+
 
 ## 💬 Redes
 
